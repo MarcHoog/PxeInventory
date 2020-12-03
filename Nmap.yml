@@ -2,3 +2,4 @@
   plugin: community.general.nmap
   strict: False
   address: 39.0.0.0/24
+  ipv4: True
